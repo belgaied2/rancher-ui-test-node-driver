@@ -13,6 +13,7 @@
     "sourceMap": true,
     "baseUrl": ".",
     "preserveSymlinks": true,
+    "noImplicitThis": false,
     "typeRoots": [
       "../../node_modules",
       "../../node_modules/@rancher/shell/types"

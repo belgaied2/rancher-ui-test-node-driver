@@ -1,5 +1,5 @@
 {
-  "name": "openstack",
+  "name": "node-driver",
   "description": "Example node driver UI for Openstack",
   "version": "1.0.0",
   "private": false,
